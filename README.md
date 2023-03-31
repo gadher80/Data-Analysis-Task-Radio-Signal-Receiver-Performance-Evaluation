@@ -1,6 +1,9 @@
+# Exploratory Data Analysis of Radio Signal Receiver Performance Evaluation
+
+
 This repository contains the solution to a data analysis task that evaluates the skills of the applicant. The task involves evaluating the performance of a test receiver installed to receive signals of certain radio waves. A vehicle equipped with an emitter of a specific radio signal is driven around the receiver, and every time the receiver detects the radio signal, a record is created with a time stamp and signal strength of the received signal. The vehicle logs its position via GPS every 100 ms and logs the longitude and latitude, which are stored in a comma-separated-value file.
 
-# Task Description
+## Task Description
 
 The following tasks were given as part of the challenge:
 
