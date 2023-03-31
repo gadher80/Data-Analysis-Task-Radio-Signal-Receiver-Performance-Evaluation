@@ -34,6 +34,11 @@ To run the solution code, the following Python libraries are required:
 * pytz
 * geopy
 
+## Logic
+
+![image](https://user-images.githubusercontent.com/61086577/229110487-1a767d00-aa84-4b4f-b0eb-ac572bd30493.png)
+
+
 Clone the repository to your local machine and run the Jupyter notebook radio_signal_receiver_performance_evaluation.ipynb.
 
 ## Conclusion
